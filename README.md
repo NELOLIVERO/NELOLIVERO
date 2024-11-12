@@ -9,7 +9,8 @@ Ingeniera de sistema- Analista QA Tester manual Funcional, me gusta analizar, br
 
 ### Hard Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,C#,Mysql,Postman,Jira)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mysql,py,git,github,postman,powershell,selenium,ubuntu,visualstudio,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,figma&theme=light)](https://skillicons.dev)
 - Creación y ejecución de casos de prueba.
 - Evidencias de Bugs.
 - JMETER
@@ -46,5 +47,6 @@ Puedes conctactarme desde los siguientes enlaces de mis redes sociales
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelbis-olivero-21350a10a/)
 
-<a href="mailto:nelbisolivero19@gmail.com" class="email-button">
-<svg class="gmail-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<a href="mailto:nelbisolivero19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
