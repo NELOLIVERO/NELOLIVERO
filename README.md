@@ -2,8 +2,8 @@
 
 # Nelbis Maria Olivero Rondon
 
-Ingeniera de sistema- Analista QA Tester manual Funcional, me gusta analizar, brindar un buen trabajo en equipo, estar en busquedad de bugs para que el producto final sea corregido y evite costos adicionales al cliente.
-
+Ingeniera de sistema- Analista QA Tester manual Funcional y no funcional.
+Me encanta buscar y encontrar aquellos pequeños detalles que podrían convertirse en grandes problemas. Es como resolver un rompecabezas, pero con un impacto real en el producto final.
 
 ## 🛠 Skills
 
