@@ -5,10 +5,11 @@
 Ingeniera de sistema- Analista QA Tester manual Funcional, me gusta analizar, brindar un buen trabajo en equipo, estar en busquedad de bugs para que el producto final sea corregido y evite costos adicionales al cliente.
 
 
-
 ## 🛠 Skills
 
 ### Hard Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,C#,Mysql,Postman,Jira)](https://skillicons.dev)
 - Creación y ejecución de casos de prueba.
 - Evidencias de Bugs.
 - JMETER
