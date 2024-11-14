@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**NELOLIVERO/NELOLIVERO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nelbis Maria Olivero Rondon
 
-Here are some ideas to get you started:
+Ingeniera de sistema- Analista QA Tester manual Funcional y no funcional.
+Me encanta buscar y encontrar aquellos pequeños detalles que podrían convertirse en grandes problemas. Es como resolver un rompecabezas, pero con un impacto real en el producto final.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+### Hard Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mysql,py,git,github,postman,powershell,selenium,ubuntu,visualstudio,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,figma&theme=light)](https://skillicons.dev)
+- Creación y ejecución de casos de prueba.
+- Evidencias de Bugs.
+- JMETER
+- JIRA
+- Confuence
+- Zephyr
+- SQL
+- POSTMAN
+- SCRUM
+- KANBAN
+- PRUEBAS DE ACCESIBILIDAD
+- PRUEBAS MOVILES
+- PRUEBAS UX/ UI
+- GIT
+- SELENIUM
+- KATALON
+
+
+### Soft Skills
+- Comunicación asertiva 
+- Trabajo en equipo.
+- Gestión del tiempo.
+- Autogestión. 
+- Hablar en público.
+## Estudios
+Ingenieria de sistemas - Univerisidad de Oriente
+
+### Certificaciones
+Tester QA MANUAL - Julio 2024 a Noviembre 2024- 230 h
+Mindhub LA + ProTalento + Goyn 
+
+## Contacto
+Puedes conctactarme desde los siguientes enlaces de mis redes sociales
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelbis-olivero-21350a10a/)
+
+<a href="mailto:nelbisolivero19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
