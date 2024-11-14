@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, qué tal 👋
 
 # Nelbis Maria Olivero Rondon
 
