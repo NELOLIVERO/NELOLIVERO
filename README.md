@@ -1,6 +1,5 @@
 ## Hola, que tal 👋
-## Soy 
-# Nelbis Maria Olivero Rondon
+# Soy, Nelbis Maria Olivero Rondon
 
 Ingeniera de sistema- Analista QA Tester manual Funcional y no funcional.
 Me encanta buscar y encontrar aquellos pequeños detalles que podrían convertirse en grandes problemas. Es como resolver un rompecabezas, pero con un impacto real en el producto final.
