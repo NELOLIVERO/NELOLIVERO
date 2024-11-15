@@ -39,8 +39,8 @@ Me encanta buscar y encontrar aquellos pequeños detalles que podrían convertir
 Ingenieria de sistemas - Univerisidad de Oriente
 
 ### Certificaciones
-<div class="credential-display">
-  <img src="https://www.acreditta.com/credential/bcc8cc4b-6112-492d-9b40-0ab7400594b6?utm_source=copy&resource_type=badge&resource=bcc8cc4b-6112-492d-9b40-0ab7400594b6" alt="Acreditta Credential">
+[![Acreditta](https://www.acreditta.com/credential/bcc8cc4b-6112-492d-9b40-0ab7400594b6)](https://api.acreditta.com/api/v1/badges/badge-acceptance/bcc8cc4b-6112-492d-9b40-0ab7400594b6/)
+ 
 Tester QA MANUAL - Julio 2024 a Noviembre 2024- 230 h
 Mindhub LA + ProTalento + Goyn 
 
