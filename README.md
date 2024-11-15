@@ -8,8 +8,8 @@ Me encanta buscar y encontrar aquellos pequeños detalles que podrían convertir
 
 ### Hard Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mysql,py,git,github,postman,powershell,selenium,ubuntu,visualstudio,windows,linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bash,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mysql,py,git,github,postman,powershell,selenium,ubuntu,visualstudio,windows,linux,bash,figma&theme=light)](https://skillicons.dev)
+
 - Creación y ejecución de casos de prueba.
 - Evidencias de Bugs.
 - JMETER
