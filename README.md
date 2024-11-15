@@ -1,5 +1,5 @@
 ## Hola, que tal 👋
-# Soy 
+## Soy 
 # Nelbis Maria Olivero Rondon
 
 Ingeniera de sistema- Analista QA Tester manual Funcional y no funcional.
@@ -41,7 +41,7 @@ Ingenieria de sistemas - Univerisidad de Oriente
 ### Certificaciones
 [![Acreditta]( https://info.acreditta.com/wp-content/uploads/2023/06/Logo-Acreditta-Blanco.svg)](https://api.acreditta.com/api/v1/badges/badge-acceptance/bcc8cc4b-6112-492d-9b40-0ab7400594b6/)
 
-Tester QA MANUAL - Julio 2024 a Noviembre 2024- 230 h
+Tester QA MANUAL - Julio 2024 a Noviembre 2024- 260 h
 Mindhub LA + ProTalento + Goyn 
 
 ## Contacto
