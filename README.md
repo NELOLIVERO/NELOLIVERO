@@ -1,5 +1,7 @@
-## Hola, que tal 👋
-# Soy, Nelbis Maria Olivero Rondon
+## Hola, que tal, soy
+
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFSLhdqJHjw5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729628193512?e=1736985600&v=beta&t=QEIel3TaD0NA9HUB0SQ0sXRWy4iSEphDgW2zEnNzmSU"/>
+
 
 Ingeniera de sistema- Analista QA Tester manual Funcional y no funcional.
 Me encanta buscar y encontrar aquellos pequeños detalles que podrían convertirse en grandes problemas. Es como resolver un rompecabezas, pero con un impacto real en el producto final.
