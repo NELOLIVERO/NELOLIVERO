@@ -1,5 +1,4 @@
 ## Hola 👋 
- <img src="https://media.licdn.com/dms/image/v2/D5616AQFSLhdqJHjw5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729628193512?e=1736985600&v=beta&t=QEIel3TaD0NA9HUB0SQ0sXRWy4iSEphDgW2zEnNzmSU"/>
 
 
 Soy Ingeniera de Sistemas con un enfoque en Análisis QA y Pruebas de Software. Mi pasión por la tecnología y la calidad me motiva a mejorar constantemente mis habilidades, tanto técnicas como colaborativas. Soy una profesional que siempre está en busca de nuevos conocimientos, y me encanta aprender de los más experimentados, porque sé que el aprendizaje es un camino continuo.
